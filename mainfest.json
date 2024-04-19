@@ -1,0 +1,31 @@
+{
+    "short_name": "SnapGlobe",
+    "name": "SnapGlobe Inc.",
+    "description": "A PWA which enables you to share photos with friends",
+    "icons": [
+        {
+            "src": "Assets/app_icon_x128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "Assets/app_icon_x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "Assets/app_icon_x72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "Assets/app_icon_x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "standalone",
+    "background_color": "#fff"
+}
